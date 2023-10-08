@@ -20,6 +20,7 @@ namespace Tyuiu.ZargarovAA.Sprint2.Task0.V26.Lib
             res[4] = (x - 70) <= y;
             res[5] = x >= y;
 
+
             return res;
         }
     }

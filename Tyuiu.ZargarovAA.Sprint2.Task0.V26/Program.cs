@@ -26,6 +26,7 @@ namespace Tyuiu.ZargarovAA.Sprint2.Task0.V26
             Console.WriteLine("* Выполнил Заргаров А. А. | ИИПб-23-2                                      *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
+
             Console.WriteLine("* Написать программу сравнивающая x и y                                    *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                         *");
