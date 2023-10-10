@@ -15,12 +15,12 @@ namespace Tyuiu.ZargarovAA.Sprint2.Task2.V9
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #2                                                                *");
             Console.WriteLine("* Тема: Базовые навыки работы C#                                           *");
-            Console.WriteLine("* Задание #0                                                               *");
-            Console.WriteLine("* Вариант #26                                                              *");
+            Console.WriteLine("* Задание #2                                                               *");
+            Console.WriteLine("* Вариант #9                                                              *");
             Console.WriteLine("* Выполнил Заргаров А. А. | ИИПб-23-2                                      *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
-            Console.WriteLine("* Написать программу сравнивающая x и y                                    *");
+            Console.WriteLine("* Написать программу проверяющая закрашена ли точка                        *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЫЕ:                                                        *");
             Console.WriteLine("****************************************************************************");
