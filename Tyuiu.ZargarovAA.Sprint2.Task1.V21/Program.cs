@@ -22,14 +22,14 @@ namespace Tyuiu.ZargarovAA.Sprint2.Task1.V21
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #2                                                                *");
             Console.WriteLine("* Тема: Базовые навыки работы C#                                           *");
-            Console.WriteLine("* Задание #0                                                               *");
-            Console.WriteLine("* Вариант #26                                                              *");
+            Console.WriteLine("* Задание #1                                                               *");
+            Console.WriteLine("* Вариант #21                                                              *");
             Console.WriteLine("* Выполнил Заргаров А. А. | ИИПб-23-2                                      *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
-            Console.WriteLine("* Написать программу сравнивающая x и y                                    *");
+            Console.WriteLine("* Написать программу сравнивающая числа                                    *");
             Console.WriteLine("****************************************************************************");
-            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЫЕ:                                                         *");
+            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЫЕ:                                                        *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("a = " + a);
             Console.WriteLine("b = " + b);
