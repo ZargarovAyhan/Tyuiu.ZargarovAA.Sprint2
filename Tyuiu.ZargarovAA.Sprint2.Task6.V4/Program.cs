@@ -12,17 +12,17 @@ namespace Tyuiu.ZargarovAA.Sprint2.Task6.V4
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт#2 |Выполнила: Cоколова А.А.|АСОиУб-23-3";
+            Console.Title = "Спринт #2| Выполнил: Заргаров А. А. | ИИПб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт#2                                                                *");
             Console.WriteLine("* Тема: Оператор switch                                                   *");
-            Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #3                                                              *");
-            Console.WriteLine("* Выполнила: Соколова Анастасия Александровна | АСОиУб-23-3               *");
+            Console.WriteLine("* Задание #6                                                              *");
+            Console.WriteLine("* Вариант #4                                                              *");
+            Console.WriteLine("* Выполнил Заргаров А. А. | ИИПб-23-2                                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:           " +
                 "                                                     *");
-            Console.WriteLine("* Написать программу, которая использует оператор switch вычисляет        *");
+            Console.WriteLine("* Написать программу которая находить масть                               *");
             Console.WriteLine("* требуемое значение и возвращает результат.                              *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
